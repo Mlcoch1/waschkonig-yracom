@@ -1,0 +1,451 @@
+{
+  "settings": {
+    "currentPage": "Waschkönig",
+    "name": "waschkonig-yracom",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#2969b0",
+        "secondaryColor": "#41a85f",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 25,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "publishType": "local",
+    "publishPath": "file:///C:/Program%20Files%20(x86)/Mobirise/platforms"
+  },
+  "pages": {
+    "Waschkönig": {
+      "settings": {
+        "main": true,
+        "title": "Waschkönig",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".navbar-toggler": {
+              "color": "#2969b0"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2969b0"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2969b0",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2969b0"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1.15",
+            "fontName": {},
+            "fontColor": "#2969b0",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-2a-174x128.png",
+              "height": 128,
+              "alt": "Waschkönig",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "100",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">WASCHKÖNIG</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NAŠE PRODUKTY</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WASCHÖNIG<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AVIVÁŽ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GEL NA PRANÍ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ODSTRAŇOVAČE SKVRN<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PRACÍ PRÁŠEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TABLETY DO MYČKY</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"www.waschkönig.com/praci-gely\" data-toggle=\"dropdown-submenu\">WASCHE MEISTER</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PRACÍ GELY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PRACÍ PRÁŠKY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ZMĚKČOVAČE</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"www.waschkönig.com/praci-gely\">GLANZ MEISTER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"www.waschkönig.com/praci-gely\">KLEE</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Waschkönig#contacts4-2\" aria-expanded=\"true\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>KONTAKTY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#top\"><span class=\"etl-icon icon-download mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(65, 168, 95);\">&nbsp;KE STAŽENÍ</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Waschkönig#map1-f\"><span class=\"etl-icon icon-map mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px; color: rgb(65, 168, 95);\">&nbsp;MAPA</span></a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px",
+              "color": "#2969b0"
+            },
+            ".mbr-section-title": {
+              "color": "#2969b0"
+            }
+          },
+          "_anchor": "header1-i",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "O NÁS",
+          "text": "Společnost YRACOM s.r.o. je velkosklad zaobírající se drogerií, který zásobuje velkoobchody a velkosklady resp. obchoduje v rámci celé Evropské unie. Kromě drogerie se věnuje i exportu a importu potravin, sladkostí a nealkoholických nápojů. Mladá, dynamická společnost využívá dlouholeté zkušenosti v obchodování s rychloobrátkovým spotřebním zbožím. Naše skladové prostory jsou v Hustopečích, svěřené logistické společnosti, která působí na českém trhu od roku 1995.<br><br>Náš velkosklad poskytuje kvalitní výrobky a kvalitní služby pro zákazníky. Neváhejte nás kontaktovat, rádi uvítáme spolupráci i s Vaší společnosti. Nabízíme více jako 3000 výrobků od významných výrobců jako jsou Procter&amp;Gamble, Unilever, Henkel, Reckitt Benckiser, Coty, Ferrero, Mondalez a podobně.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://yracom.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YRACOM</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#41a85f",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "header1-g",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "file:///C:/Users/Ulw/AppData/Local/Mobirise.com/Mobirise/projectData/logo_2a-2000x1471.png",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "",
+          "text": "Factor Finance s.r.o. bola založená v roku 2009. Od začiatku fungovania spoločnosť kontinuálne rastie a má stabilné postavenie na slovenskom trhu. Po dlhoročnom pôsobení v Komárne sme sa začiatkom roku 2015 presťahovali do nových priestorov v Zelenom Háji. Nové skladové priestory o ploche 2000 m2 umožnili rozšíriť sortiment a reagovať na dopyty našich zákazníkov. Naša snaha inovovať a modernizovať neutícha, preto sa stále snažíme hľadať nové možnosti na zlepšenie našich služieb.<br><br>Naša činnosť<br>Zaoberáme sa exportom a importom - sprostredkovaním obchodu v rámci celej Európy. V spoločnosti využívame viac ako 20-ročné skúsenosti v oblasti predaja. Primárne obchodujeme so značkovou drogériou, ale taktiež sa zaoberáme so značkovými potravinami - cukrovinkami, čokoládou aj kávou. Naďalej pracujeme na rozšírení nášho sortimentu. V 2015 bola naša spoločnosť vyhodnotená ako významný exportér Slovenskej republiky, čím sa zaradila medzi stabilizačné piliere slovenského hospodárstva a tým pozitívne ovplyvňuje rovnováhu medzinárodného obchodu.<br><br>Kvalitné produkty a služby<br>Obchodujeme výlučne s kvalitnými značkovými produktmi a spolupracujeme s výrobcami ako sú Procter&amp;Gamble, Henkel, Johnson&amp;Johnson, Reckitt Benckiser, Unilever a ďalší. Našou úlohou je zabezpečiť kvalitné výrobky pre našich partnerov, hľadať správne riešenia a preto naše motto znie: \"Kvalitnou prácou dosiahnuť rastúci záujem o spoluprácu s nami.\" Ochotným a profesionálnym prístupom sa snažíme splniť všetky naše záväzky, o čom svedčí aj získanie pečate bonity v roku 2014.<br><br>Pomoc iným<br>Uvedomujeme si svoju spoločenskú zodpovednosť a aktívne sa zapájame do oblastí podpory tých, ktorí potrebujú pomoc alebo sú odkázaní na pomoc iných. Sme sponzormi akcií, kde ide o dobrú vec. Občianske združenie Štvorlístok každoročne organizuje tábor pre detí zo sociálne slabších rodín. Taktiež podporujeme nádejných športovcov aj ľudí so zdravotným postihnutím. Ochranu životného prostredia tiež považujeme za dôležité a teda naše snahy zameriavame aj týmto smerom.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://www.factorfinance.eu/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACTORFINANCE</a>   "
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#3d8eb9"
+            }
+          },
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Vytvořil: Michal Mlčoch</b>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "STRONG": {
+              "color": "#efefef"
+            },
+            "P": {
+              "font-size": "17px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "B": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts4-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Fakturační adresa</strong><br>U Kolečka 272 <br>Kuchařovice – Znojmo 66902, Česká republika<br><br><b>Korespondenční adresa</b><br>U Kolečka 272 <br>Kuchařovice – Znojmo 66902, Česká republika<br><strong><br></strong><br><strong>Kontakty</strong><br>Pavel Mlčoch&nbsp;<br><span style=\"line-height: 1.5;\">Email: pavel.mlcoch@yracom.com</span><br>\nMobil: +420 602 347 729<br>__________________<br><br>Martin Mlčoch<br>Email: martin.mlcoch@yracom.com<br>Mobil:&nbsp;+420 607 951 207<br>__________________<br>IGOR MOČÁRY<br>Email: yracom@yracom.com<br>Mobil: +421 905 851 027<br>__________________<br>MAREK MOČÁRY<br>Email:marek@yracom.com<br>Mobil:+421 908 808 363<br>__________________<br>MGR. HELENA MOČÁRYOVÁ<br><span style=\"line-height: 1.5;\">Email:office@yracom.com</span><br><span style=\"line-height: 1.5;\">Mobil:</span>+421 905 261 680<br>__________________<span style=\"line-height: 1.5;\"><br></span><br><br><br>",
+          "text2": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "michalmlcoch1@seznam.cz",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Zpráva"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Kontaktujte nás</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-f",
+          "_params": {
+            "googleMap": {
+              "address": "Brněnská 339, 671 82 Dobšice, Česko",
+              "placeId": "ChIJhdhn1ppUbUcRsYbG5jrDyMc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mapka-1-2000x1331.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/velkoobchod-velkosklad-yracom-moss-kozmetika-drogeria-potraviny-1-small-2000x1337.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/velkoobchod-velkosklad-yracom-moss-kozmetika-drogeria-potraviny-4-small-2000x1337.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "FULL SCREEN SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "slider-l",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "PRACÍ GELY",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-n",
+          "articleLayout": false,
+          "allItem": "VŠE"
+        }
+      ]
+    }
+  }
+}
